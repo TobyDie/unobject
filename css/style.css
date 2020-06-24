@@ -7813,7 +7813,7 @@ h1, h2, h3, h4, h5,
     padding: 15em 0;
     background: #396A95; }
     .ftco-section-parallax .parallax-img.parallax-img-2 {
-      background: linear-gradient(45deg, #268C62 100%, black 0%); }
+      background: linear-gradient(45deg, black 0%, #268C62 100%); }
 
 .block-3 .text, .block-3 .image {
   width: 100%;
